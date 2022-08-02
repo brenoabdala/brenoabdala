@@ -3,8 +3,7 @@
 <p align="left">
 
 Olá, meu nome é Breno Rossi, sou <strong>Analista de Banco de Dados</strong>.<br>
-Estudo Ciência da Computação na Universidade São Judas Tadeu e sou formado em Analise e Desenvolvimento de Sistemas pela
-Universidade Cruzeiro do Sul.
+Estudo Ciência da Computação na Universidade São Judas Tadeu 
 
 </p>
 
