@@ -8,7 +8,7 @@ Estudo Ciência da Computação na Universidade São Judas Tadeu
 </p>
 
 <p align="left">
- 🚀 Linguagens: <strong>Python, Microsoft VBA</strong>.
+ 🚀 Linguagens: <strong>Python, Microsoft VBA e SQL </strong>.
 </p>
 
 <p align="left">
