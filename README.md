@@ -2,7 +2,7 @@
 
 <p align="left">
 
-Olá, meu nome é Breno Rossi, sou <strong>Analista de Banco de Dados</strong>.<br>
+Olá, meu nome é Breno Abdala, sou <strong>Analista de Banco de Dados</strong>.<br>
 Estudo Ciência da Computação na Universidade São Judas Tadeu 
 
 </p>
