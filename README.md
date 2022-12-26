@@ -3,7 +3,7 @@
 <p align="left">
 
 Olá, meu nome é Breno Abdala, sou <strong>Analista de Banco de Dados</strong>.<br>
-Estudo Ciência da Computação na Universidade São Judas Tadeu 
+Sou formado em Ciência da Computação na Universidade São Judas Tadeu  e em Analise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 
 </p>
 
@@ -12,7 +12,7 @@ Estudo Ciência da Computação na Universidade São Judas Tadeu
 </p>
 
 <p align="left">
-  💻 Ferramentas: <strong>Alteryx, Azure Data Factory, SQL Server, MySQL, Microsoft Access, Microsoft Power BI, Microsoft Excel</strong>.
+  💻 Ferramentas: <strong>Alteryx, Azure Data Factory, SQL Server, MySQL, Microsoft Access, Microsoft Excel</strong>.
 </p>
 
 <p align="left">
