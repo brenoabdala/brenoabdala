@@ -15,13 +15,4 @@ Sou formado em Ciência da Computação na Universidade São Judas Tadeu  e em A
   💻 Ferramentas: <strong>Alteryx, Azure Data Factory, SQL Server, MySQL, Microsoft Access, Microsoft Excel</strong>.
 </p>
 
-<p align="left">
-  💼 Contato:
-</p>
 
-<p align="left">
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/brenoabdala" /></a>
-
-</p>
