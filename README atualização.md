@@ -3,7 +3,7 @@
 <p align="left">
 
 Olá, meu nome é Breno Abdala, sou <strong>Analista de Banco de Dados</strong>.<br>
-Sou formado em Ciência da Computação na Universidade São Judas Tadeu  e em Analise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+Estou cursando MBA EM Engenharia de dados pela faculdade Impacta, sou formado em Ciência da Computação na Universidade São Judas Tadeu  e em Analise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 
 </p>
 
