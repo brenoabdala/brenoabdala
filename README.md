@@ -3,7 +3,7 @@
 <p align="left">
 
 Olá, meu nome é Breno Abdala, sou <strong>Analista de Banco de Dados</strong>.<br>
-Estou cursando MBA em Engenharia de dados pela faculdade Impacta, sou formado em Ciência da Computação na Universidade São Judas Tadeu  e sou certificado pela microsft na Azure AZ-900.
+Estou cursando MBA em Engenharia de dados pela faculdade Impacta, sou formado em Ciência da Computação na Universidade São Judas Tadeu  e sou certificado pela microsoft na azure AZ-900.
 
 </p>
 
@@ -12,7 +12,7 @@ Estou cursando MBA em Engenharia de dados pela faculdade Impacta, sou formado em
 </p>
 
 <p align="left">
-  💻 Ferramentas/Plataformas: <strong>Azure,Alteryx, Azure Data Factory, SQL Server, MySQL, Microsoft Access, Microsoft Excel</strong>.
+  💻 Ferramentas/Plataformas: <strong>Alteryx, Azure Data Factory, Azure Function, Azure Key Valut, SQL Server, MySQL, Microsoft Access, Microsoft Excel</strong>.
 </p>
 
 
