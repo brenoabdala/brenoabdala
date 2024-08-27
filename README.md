@@ -8,7 +8,7 @@ Estou cursando MBA em Engenharia de dados pela faculdade Impacta, sou formado em
 </p>
 
 <p align="left">
- 🚀 Linguagens: <strong>Python, Microsoft VBA e SQL </strong>.
+ 🚀 Linguagens: <strong>Python, Spark(PySpark), Microsoft VBA e SQL </strong>.
 </p>
 
 <p align="left">
