@@ -3,7 +3,7 @@
 <p align="left">
 
 Olá, meu nome é Breno Abdala, sou <strong>Analista de Banco de Dados 2</strong>.<br>
-Possuo MBA em Engenharia de Dados pela faculdade Impacta, sou formado em Ciência da Computação na Universidade São Judas Tadeu  e sou certificado pela microsoft na azure AZ-900.
+Possuo MBA em Engenharia de Dados pela faculdade Impacta, sou formado em Ciência da Computação na Universidade São Judas Tadeu  e sou certificado pela microsoft na azure AZ-900/DP-900.
 
 </p>
 
