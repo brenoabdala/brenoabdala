@@ -2,17 +2,17 @@
 
 <p align="left">
 
-Olá, meu nome é Breno Abdala, sou <strong>Analista de Banco de Dados 2</strong>.<br>
-Possuo MBA em Engenharia de Dados pela faculdade Impacta, sou formado em Ciência da Computação na Universidade São Judas Tadeu  e sou certificado pela microsoft na azure AZ-900/DP-900.
+Hi, my name is Breno and I am a <strong> Database Analyst II </strong>.<br>
+I hold an MBA in Data Engineering from Impacta College, a Bachelor's degree in Computer Science from São Judas Tadeu University, and I am Microsoft Azure certified in AZ-900/DP-900.
 
 </p>
 
 <p align="left">
- 🚀 Linguagens: <strong>Python, Spark(PySpark), Microsoft VBA e SQL </strong>.
+ 🚀 Languages: <strong>Python, Spark(PySpark), DAX(PowerBi) e SQL </strong>.
 </p>
 
 <p align="left">
-  💻 Ferramentas/Plataformas: <strong>Alteryx, Azure Data Factory, Azure Synapse Analytcs, Azure Function, Azure Key Valut, SQL Server, MySQL, Microsoft Access, Microsoft Excel</strong>.
+  💻 Tools/Platforms: <strong> Alteryx, Azure Data Factory, Azure Synapse Analytics, Azure Functions, Azure Key Vault, SQL Server, MySQL, Microsoft Exce</strong>.
 </p>
 
 
